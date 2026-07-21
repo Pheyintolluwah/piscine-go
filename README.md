@@ -167,9 +167,9 @@ Exercises completed as part of the **01 Edu Piscine Go** curriculum.
 
 **Feyintoluwa Omotosho**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/Pheyintolluwah
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+LinkedIn: https://linkedin.com/in/feyintoluwa-omotosho
 
 ---
 
